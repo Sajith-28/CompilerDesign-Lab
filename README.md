@@ -12,14 +12,14 @@ To write a C program to implement a symbol table.
 
 ## ALGORITHM:
 
-Start the program.
-Get the input from the user with the terminating symbol ‘$’.
-Allocate memory for the variable by dynamic memory allocation function.
-If the next character of the symbol is an operator then only the memory is allocated.
-While reading, the input symbol is inserted into symbol table along with its memory address.
-The steps are repeated till ‘$’ is reached.
-To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
-Stop the program.
+STEP 1:Start the program.
+STEP 2:Get the input from the user with the terminating symbol ‘$’.
+STEP 3:Allocate memory for the variable by dynamic memory allocation function.
+STEP 4:If the next character of the symbol is an operator then only the memory is allocated.
+STEP 5:While reading, the input symbol is inserted into symbol table along with its memory address.
+STEP 5:The steps are repeated till ‘$’ is reached.
+STEP 6:To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
+STEP 7:Stop the program.
 
 ## PROGRAM:
 ```
@@ -79,7 +79,7 @@ return 0;
 } 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/efddce94-3298-4bff-9016-6b842ad7807d)
+![Screenshot 2024-11-20 200658](https://github.com/user-attachments/assets/4a16bfe4-ca34-4f70-aa9d-e4af649209e8)
 
 ## RESULT:
 
