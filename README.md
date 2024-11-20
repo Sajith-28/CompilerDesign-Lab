@@ -79,7 +79,7 @@ return 0;
 } 
 ```
 ## OUTPUT:
-![Screenshot 2024-09-26 083448](https://github.com/user-attachments/assets/1367b094-e6e9-4888-977e-8abbf77c78fc)
+![image](https://github.com/user-attachments/assets/efddce94-3298-4bff-9016-6b842ad7807d)
 
 ## RESULT:
 
